@@ -1,0 +1,1 @@
+# GOODRAM-Tender-Intelligence-v1.2.0
