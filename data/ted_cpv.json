@@ -1,0 +1,57 @@
+[
+  {
+    "code": "30200000",
+    "name_pl": "Urządzenia komputerowe",
+    "active": true
+  },
+  {
+    "code": "30230000",
+    "name_pl": "Sprzęt komputerowy",
+    "active": true
+  },
+  {
+    "code": "30233000",
+    "name_pl": "Przechowywanie danych",
+    "active": true
+  },
+  {
+    "code": "30234000",
+    "name_pl": "Nośniki danych",
+    "active": true
+  },
+  {
+    "code": "30236000",
+    "name_pl": "Różny sprzęt komputerowy",
+    "active": true
+  },
+  {
+    "code": "30237000",
+    "name_pl": "Części komputerowe",
+    "active": true
+  },
+  {
+    "code": "32400000",
+    "name_pl": "Sieci",
+    "active": true
+  },
+  {
+    "code": "32420000",
+    "name_pl": "Urządzenia sieciowe",
+    "active": true
+  },
+  {
+    "code": "48800000",
+    "name_pl": "Systemy informacyjne",
+    "active": true
+  },
+  {
+    "code": "48820000",
+    "name_pl": "Serwery",
+    "active": true
+  },
+  {
+    "code": "72000000",
+    "name_pl": "Usługi IT",
+    "active": true
+  }
+]

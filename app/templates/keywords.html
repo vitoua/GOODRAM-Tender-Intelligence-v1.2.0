@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block c %}<h1>Słowa kluczowe</h1><div class="keyword-grid">{% for lang,words in groups.items() %}<article><h2>{{lang|upper}}</h2><pre>{{words|join('\n')}}</pre></article>{% endfor %}</div>{% endblock %}

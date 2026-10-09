@@ -1,0 +1,1 @@
+COUNTRIES={'AUT':'Austria','BEL':'Belgium','CZE':'Czechia','DEU':'Germany','ESP':'Spain','EST':'Estonia','FRA':'France','ITA':'Italy','LTU':'Lithuania','LVA':'Latvia','NLD':'Netherlands','POL':'Poland','PRT':'Portugal','ROU':'Romania','SVK':'Slovakia','UKR':'Ukraine'}
